@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DeneesK
+- 👋 Hi, I’m Denis
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any projects developing on Python
+- 💞️ I’m looking to collaborate on any projects developing by Python
 - 📫 How to reach me - text me, denis.kalbasov@gmail.com
 
 <!---
