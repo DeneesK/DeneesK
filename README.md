@@ -1,3 +1,4 @@
+![alt text](https://github.com/DeneesK/myblog/blob/master/portfolio/static/portfolio/large.png)
 - 👋 Hi, I’m Denis
 - 👀 I’m interested in backend development
 - 💞️ I’m looking to collaborate on any projects developing by Python
