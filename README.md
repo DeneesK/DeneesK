@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Denis
-- 👀 I’m looking to collaborate on projects developing by Python
+- 👀 I’m looking to collaborate on projects developing on Python, C++
 - 📫 How to reach me - text me, denis.kalbasov@gmail.com
 
 <!---
